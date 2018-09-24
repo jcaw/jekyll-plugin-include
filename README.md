@@ -1,6 +1,8 @@
 jekyll-plugin-include
 =====================
 
+<img src="logo.jpg" width="400">
+
 A Jekyll liquid tag plugin which allows includes directly from plugins' `_include` directories, with optional ability to override with files present in site includes_dir (if they exist).
 
 Normally, Jekyll's `include` tag can only search for files in the site's single configured includes directory (and that of the *theme* plugin, if it using one). That means that if a plugin wants to provide you with a template/fragment via includes, the best it can do is ask you to copy it into your own repo manually.
