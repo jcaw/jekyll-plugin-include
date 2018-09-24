@@ -1,0 +1,11 @@
+Style/RedundantReturn:
+  Enabled: False
+Style/TrailingCommaInArrayLiteral:
+  Enabled: False
+Style/TrailingCommaInHashLiteral:
+  Enabled: False
+
+Metrics/AbcSize:
+  Max: 25
+Metrics/MethodLength:
+  Max: 20
