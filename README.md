@@ -1,6 +1,8 @@
 jekyll-plugin-include
 =====================
 
+_**This plugin is currently in a generally non-working state, and should not at the moment be relied upon. Check back later though! 🙂**_
+
 <img src="logo.jpg" width="400">
 
 A Jekyll liquid tag plugin which allows includes directly from plugins' `_include` directories, with optional ability to override with files present in site includes_dir (if they exist).
