@@ -29,7 +29,7 @@ And for plugin developers, this provides a way to ship and use includes without 
   spec.add_runtime_dependency "jekyll", ['>= 3.8', '< 4.0']
 
   spec.add_development_dependency "bundler", "~> 1.16"
-  spec.add_development_dependency "rake", "~> 10.0"
+  spec.add_development_dependency "rake", ">= 12.3.3"
   spec.add_development_dependency "rspec", "~> 3.0"
   spec.add_development_dependency "rubocop", "~> 0.59.1"
 end
